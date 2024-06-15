@@ -1,0 +1,30 @@
+{
+  "name": "reactcourse",
+  "version": "1.0.0",
+  "description": "ReactCourse",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shafeerashafu/ReactCourse.git"
+  },
+  "author": "Shafeera Zahur Basha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shafeerashafu/ReactCourse/issues"
+  },
+  "homepage": "https://github.com/shafeerashafu/ReactCourse#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
